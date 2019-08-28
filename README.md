@@ -12,7 +12,7 @@ Exercising Git fundamentals discussed during the first lecture. You must have cr
 8. Copy the URL provided.
 9. Open a local terminal session on your workstation (do not connect to your student account on Blue).
 10. Using the terminal, change your working directory to the Desktop.
-11. Using the terminal, make a new directory named **Lab1*.
+11. Using the terminal, make a new directory named **Lab1**.
 12. Using the terminal, change your working directory to **Lab1**.
 13. Using the terminal and the URL for your repository, run the command **git clone {URL}**. You will be prompted for your Git credentials.
 14. Once your repository has been cloned, using the terminal, change your working directory to the newly created directory with the same name as your repository. 
