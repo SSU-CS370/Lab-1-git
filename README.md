@@ -1,7 +1,8 @@
 # Lab 1 - Git Fundamentals
 Exercising Git fundamentals discussed during the first lecture. You must have created a GitHub account in order to take part in this exercise.
 
-1. Log in to GitHub and Create a public repository in the SSU-370 organization.
+1. Log in to GitHub and Create a public repository in the SSU-370 organization with the name 
+**yourLastNameyourFirstName-Lab1**.
 2. Once the repository has been created, click on the **Settings** tab.
 3. On the *Settings* screen, click on the **Collaborators** option in the left hand navigation bar.
 4. In the **Collaborators** interface, add **fisher-CS370** as a collaborator with write access.
@@ -14,3 +15,4 @@ Exercising Git fundamentals discussed during the first lecture. You must have cr
 11. Using the terminal, make a new directory named **Repositories**.
 12. Using the terminal, change your working directory to **Repositories**.
 13. Using the terminal and the URL for your repository, run the command **git clone {URL}**. You will be prompted for your Git credentials.
+14. Once your repository has been cloned, using the terminal, change your working directory to 
