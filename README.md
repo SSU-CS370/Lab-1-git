@@ -13,4 +13,4 @@ Exercising Git fundamentals discussed during the first lecture. You must have cr
 10. Using the terminal, change your working directory to the Desktop.
 11. Using the terminal, make a new directory named **Repositories**.
 12. Using the terminal, change your working directory to **Repositories**.
-13. Using the terminal and the URL for your repository, run the command **git clone <URL>** . You will be prompted for your Git credentials.
+13. Using the terminal and the URL for your repository, run the command **git clone {URL}**. You will be prompted for your Git credentials.
