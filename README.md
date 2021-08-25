@@ -29,4 +29,4 @@ Exercising Git fundamentals discussed during the first lecture. You must have cr
 25. On the **Code** tab, click on the **Branch** drop down (it should currently be set to **master**). Select your **Branch1**.
 26. Click the **New pull request** button. A **Compare changes** form should appear. Note that there is a dialog comparing **Branch1** to **master**. Scrolling down, you should see the changes that you made to your file on **Branch1**. There should be no merge conflicts (a line next to your comparison should say **Able to merge**).
 27. In the **Write** dialog area, add a message saying **@fisher-CS370 please review**.
-28. Click on the **Create pull request** button at the bottom of the dialog. This will notify me that I need to review your PR. Once I have merged your PR, the lab is complete.
+28. Click on the **Create pull request** button at the bottom of the dialog. This will notify me that I need to review your PR. Once I have merged your PR, the lab is complete (although this may not happen immediately; you may consider yourself done for the evening after requesting the PR.
